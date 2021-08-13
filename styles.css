@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  background-color: slategrey;
+}
+
+body {
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  border: none;
+  width: 100px;
+  font-size: 66px;
+}
+
+button:active {
+  background-color: cadetblue;
+}
